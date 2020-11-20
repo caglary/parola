@@ -26,7 +26,7 @@ namespace parola
             catch (Exception exception)
             {
                 //throw exception;
-                StaticClass.MessageBoxOperation.MessageBoxError(exception.Message);
+                MessageBoxOperation.MessageBoxError(exception.Message);
              
             }
         }

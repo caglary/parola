@@ -1,5 +1,4 @@
-﻿using StaticClass;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -21,7 +20,7 @@ namespace parola.Forms
         {
             bool hardDiskFinded = false;
             //eğer programa başka bilgisayardan giriş yapılırsa
-            StaticClass.HardDrive hd = new HardDrive();
+            HardDrive hd = new HardDrive();
             var list=hd.GetHDDInformation();
             foreach (var item in list)
             {
@@ -107,7 +106,7 @@ namespace parola.Forms
         }
         private void BtnJsonBackup_Click(object sender, EventArgs e)
         {
-            string folderPath = StaticClass.FileOperation.FolderPath();
+            string folderPath = FileOperation.FolderPath();
             if (!string.IsNullOrEmpty(folderPath))
             {
                 var liste = _bll.GetAll();
@@ -121,7 +120,7 @@ namespace parola.Forms
                     if (mailParola != null)
                         SendEmail.SendMailToGmail("Parola Uygulaması Yedek", "Parola uygulamasının alınan yedekleri.", "Parola Uygulaması", mailParola.parola_, SavePath);
                     else
-                        StaticClass.MessageBoxOperation.MessageBoxError("Gmail bilgilerine ulaşılamadı. Bu yüzden mail gönderme işlemi gerçekleşemedi.");
+                        MessageBoxOperation.MessageBoxError("Gmail bilgilerine ulaşılamadı. Bu yüzden mail gönderme işlemi gerçekleşemedi.");
                 }
             }
         }
@@ -191,7 +190,7 @@ namespace parola.Forms
         }
         private void BtnShow_Click(object sender, EventArgs e)
         {
-            StaticClass.Hata.tryCatch(() =>
+            Hata.tryCatch(() =>
             {
                 ReflectionSelenium reflectionSelenium = new ReflectionSelenium();
                 var classControl = reflectionSelenium.classControl();
