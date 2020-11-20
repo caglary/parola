@@ -1,10 +1,9 @@
-﻿using NLog;
-using System;
+﻿using System;
 namespace parola
 {
     public static class Hata
     {
-        static Logger _logger = LogManager.GetCurrentClassLogger();
+        
         public static void tryCatch(Action Action)
         {
             try
@@ -21,7 +20,7 @@ namespace parola
         {
             try
             {
-                _logger.Debug(exception.Message);
+                //will code for loging
             }
             catch (Exception _exception)
             {

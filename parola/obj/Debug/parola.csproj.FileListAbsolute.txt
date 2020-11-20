@@ -601,7 +601,6 @@ C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\LiteDB.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.exe.config
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.exe
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.pdb
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\LiteDB.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\Newtonsoft.Json.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Buffers.dll
@@ -609,13 +608,10 @@ C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Memory.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\WebDriver.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\NLog.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\LiteDB.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\Newtonsoft.Json.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Memory.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\WebDriver.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\NLog.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.datagridliste.resources
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.Forms.Anasayfa.resources
