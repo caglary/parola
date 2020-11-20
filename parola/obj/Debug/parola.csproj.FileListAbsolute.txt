@@ -1,0 +1,598 @@
+C:\Users\gthb.admin\Desktop\parola\parola\bin\Debug\parola.exe.config
+C:\Users\gthb.admin\Desktop\parola\parola\bin\Debug\parola.exe
+C:\Users\gthb.admin\Desktop\parola\parola\bin\Debug\parola.pdb
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.Form1.resources
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.exe
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.pdb
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.csproj.ResolveComReference.cache
+C:\Users\gthb.admin\Desktop\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\gthb.admin\source\repos\parola\parola\bin\Debug\parola.exe.config
+C:\Users\gthb.admin\source\repos\parola\parola\bin\Debug\parola.exe
+C:\Users\gthb.admin\source\repos\parola\parola\bin\Debug\parola.pdb
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.csproj.ResolveComReference.cache
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.Form1.resources
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.giris.resources
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.exe
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.pdb
+C:\Users\gthb.admin\source\repos\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\extra\source\repos\parola\parola\bin\Debug\parola.exe.config
+C:\Users\extra\source\repos\parola\parola\bin\Debug\parola.exe
+C:\Users\extra\source\repos\parola\parola\bin\Debug\parola.pdb
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.csproj.ResolveComReference.cache
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.Form1.resources
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.giris.resources
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.exe
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.pdb
+C:\Users\extra\source\repos\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\extra\source\repos\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\extra\source\repos\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.SelectConnectionstring.resources
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\extra\source\repos\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\extra\source\repos\parola\parola\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\parola.exe.config
+D:\Desktop\C# Repos\parola\parola\bin\Debug\parola.exe
+D:\Desktop\C# Repos\parola\parola\bin\Debug\parola.pdb
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\FluentValidation.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\System.ValueTuple.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\WebDriver.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\FluentValidation.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\Newtonsoft.Json.pdb
+D:\Desktop\C# Repos\parola\parola\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\System.ValueTuple.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\WebDriver.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.csproj.ResolveComReference.cache
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.datagridliste.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.Form1.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.giris.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.ParolaEdit.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.Properties.Resources.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.SelectConnectionstring.resources
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.exe.licenses
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.csproj.CopyComplete
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.exe
+D:\Desktop\C# Repos\parola\parola\obj\Debug\parola.pdb
+D:\C# Repos\parola\parola\bin\Debug\parola.exe.config
+D:\C# Repos\parola\parola\bin\Debug\parola.exe
+D:\C# Repos\parola\parola\bin\Debug\parola.pdb
+D:\C# Repos\parola\parola\bin\Debug\FluentValidation.dll
+D:\C# Repos\parola\parola\bin\Debug\Newtonsoft.Json.dll
+D:\C# Repos\parola\parola\bin\Debug\System.ValueTuple.dll
+D:\C# Repos\parola\parola\bin\Debug\WebDriver.dll
+D:\C# Repos\parola\parola\bin\Debug\FluentValidation.xml
+D:\C# Repos\parola\parola\bin\Debug\Newtonsoft.Json.xml
+D:\C# Repos\parola\parola\bin\Debug\System.ValueTuple.xml
+D:\C# Repos\parola\parola\bin\Debug\WebDriver.xml
+D:\C# Repos\parola\parola\obj\Debug\parola.datagridliste.resources
+D:\C# Repos\parola\parola\obj\Debug\parola.Form1.resources
+D:\C# Repos\parola\parola\obj\Debug\parola.ParolaEdit.resources
+D:\C# Repos\parola\parola\obj\Debug\parola.Properties.Resources.resources
+D:\C# Repos\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+D:\C# Repos\parola\parola\obj\Debug\parola.exe.licenses
+D:\C# Repos\parola\parola\obj\Debug\parola.csproj.CopyComplete
+D:\C# Repos\parola\parola\obj\Debug\parola.exe
+D:\C# Repos\parola\parola\obj\Debug\parola.pdb
+D:\C# Repos\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C# Repos\parola\parola\bin\Debug\NLog.config
+D:\C# Repos\parola\parola\bin\Debug\NLog.dll
+D:\C# Repos\parola\parola\bin\Debug\NLog.xml
+D:\C# Repos\parola\parola\bin\Debug\EntityFramework.dll
+D:\C# Repos\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Repos\parola\parola\bin\Debug\EntityFramework.xml
+D:\C# Repos\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Repos\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\NLog.config
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\parola.exe.config
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\parola.exe
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\parola.pdb
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\NLog.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\NLog.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.Form1.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.exe
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.pdb
+H:\MyStore\c#\parola\parola\bin\Debug\NLog.config
+H:\MyStore\c#\parola\parola\bin\Debug\parola.exe.config
+H:\MyStore\c#\parola\parola\bin\Debug\parola.exe
+H:\MyStore\c#\parola\parola\bin\Debug\parola.pdb
+H:\MyStore\c#\parola\parola\bin\Debug\EntityFramework.dll
+H:\MyStore\c#\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+H:\MyStore\c#\parola\parola\bin\Debug\FluentValidation.dll
+H:\MyStore\c#\parola\parola\bin\Debug\Newtonsoft.Json.dll
+H:\MyStore\c#\parola\parola\bin\Debug\NLog.dll
+H:\MyStore\c#\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+H:\MyStore\c#\parola\parola\bin\Debug\System.ValueTuple.dll
+H:\MyStore\c#\parola\parola\bin\Debug\WebDriver.dll
+H:\MyStore\c#\parola\parola\bin\Debug\EntityFramework.xml
+H:\MyStore\c#\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+H:\MyStore\c#\parola\parola\bin\Debug\FluentValidation.xml
+H:\MyStore\c#\parola\parola\bin\Debug\Newtonsoft.Json.xml
+H:\MyStore\c#\parola\parola\bin\Debug\NLog.xml
+H:\MyStore\c#\parola\parola\bin\Debug\System.ValueTuple.xml
+H:\MyStore\c#\parola\parola\bin\Debug\WebDriver.xml
+H:\MyStore\c#\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+H:\MyStore\c#\parola\parola\obj\Debug\parola.datagridliste.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.Form1.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.giris.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.ParolaEdit.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.Properties.Resources.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.SelectConnectionstring.resources
+H:\MyStore\c#\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+H:\MyStore\c#\parola\parola\obj\Debug\parola.exe.licenses
+H:\MyStore\c#\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+H:\MyStore\c#\parola\parola\obj\Debug\parola.csproj.CopyComplete
+H:\MyStore\c#\parola\parola\obj\Debug\parola.exe
+H:\MyStore\c#\parola\parola\obj\Debug\parola.pdb
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\NLog.config
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\parola.exe.config
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\parola.exe
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\parola.pdb
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\NLog.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\NLog.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.Form1.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.giris.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.SelectConnectionstring.resources
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.exe
+C:\Users\caglar\Desktop\MyStore\c#\parola\parola\obj\Debug\parola.pdb
+D:\C# Repos\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\caglar\Desktop\Repos Program\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.config
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe.config
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\parola.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.config
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe.config
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\parola.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.PasswordForm.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Entity.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Entity.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll.config
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll.config
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.Anasayfa.resources
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.Anasayfa.resources
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.Password.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.config
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe.config
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\parola.exe
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\parola.pdb
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.dll
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.pdb
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\StaticClass.dll.config
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Buffers.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Memory.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\WebDriver.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.pdb
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\bin\Debug\NLog.xml
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.datagridliste.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.Anasayfa.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.ParolaEdit.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Forms.Password.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.Properties.Resources.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.RestoreKayitlar.resources
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.GenerateResource.cache
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe.licenses
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CoreCompileInputs.cache
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CopyComplete
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe
+C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.pdb

@@ -1,0 +1,1 @@
+2019-05-25 02:06:01.2646 DEBUG Sunucuyla baðlantý kurulurken að ile ilgili veya örneðe özel bir hata oluþtu. Sunucu bulunamadý veya sunucuya eriþilemiyor. Örnek adýnýn doðru olduðunu ve SQL Server'ýn uzak baðlantýlara izin verdiðini doðrulayýn. (provider: TCP Provider, error: 0 - Bekleme iþlem zamaný aþýldý.)
