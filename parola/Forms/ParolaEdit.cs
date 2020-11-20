@@ -20,7 +20,7 @@ namespace parola
         {
             //parolaid ataması yapılmadı. parolaid _parola nesnesi içerisinde bulunmakta. 
             //parola nesnesi yapıcı metodun içinde tanımlanmakta . 
-            Hata.tryCatch(() =>
+            StaticClass.Hata.tryCatch(() =>
             {
                 if (_parola == null)
                 {
@@ -63,7 +63,7 @@ namespace parola
         private void Btn_Update_Click(object sender, EventArgs e)
         {
             //Guncelleme işlemi
-            Hata.tryCatch(() =>
+            StaticClass.Hata.tryCatch(() =>
             {
                 parola newParola = NewParola();
                 if (_enumOperationName == Operations.Update) bll.Update(newParola);

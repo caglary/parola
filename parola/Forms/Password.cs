@@ -23,7 +23,7 @@ namespace parola.Forms
             }
             else
             {
-                MessageBoxOperation.MessageBoxError("Hatalı parola girdiniz.");
+                StaticClass.MessageBoxOperation.MessageBoxError("Hatalı parola girdiniz.");
                 txtPassword.Text = "";
                 txtPassword.Focus();
             }

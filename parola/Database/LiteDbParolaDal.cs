@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+
 namespace parola.Database
 {
     public class LiteDbParolaDal : IParolaDAL
@@ -19,6 +20,7 @@ namespace parola.Database
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
+
                 var collection = db.GetCollection<parola>();
                 try
                 {
@@ -28,9 +30,12 @@ namespace parola.Database
                 catch (Exception e)
                 {
                     throw new Exception(e.Message);
+
                 }
+
             }
         }
+
         public List<parola> GetAll()
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
@@ -39,8 +44,12 @@ namespace parola.Database
                 return collection.FindAll().ToList();
             }
         }
+
         public int Save(parola _parola)
         {
+
+
+
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
                 var collection = db.GetCollection<parola>();
@@ -53,8 +62,10 @@ namespace parola.Database
                 {
                     throw new Exception(e.Message);
                 }
+
             }
         }
+
         public int Update(parola _parola)
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
@@ -67,10 +78,13 @@ namespace parola.Database
                 }
                 catch (Exception e)
                 {
+
                     throw new Exception(e.Message);
                 }
+
             }
         }
+
         public string WhatIsTheConnectionString()
         {
             return DatabaseConnectionString;
