@@ -30,7 +30,6 @@ namespace parola
         public List<parola> GetAll()
         {
             return _dll.GetAll();
-
         }
         public void Save(parola parola)
         {

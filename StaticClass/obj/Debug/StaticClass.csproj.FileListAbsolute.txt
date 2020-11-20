@@ -149,3 +149,25 @@ C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.dll
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.pdb
 C:\Users\caglar\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\NLog.config
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\StaticClass.dll.config
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\StaticClass.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\NLog.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\WebDriver.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.pdb
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.xml
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\NLog.xml
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\bin\Debug\WebDriver.xml
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.csproj.ResolveComReference.cache
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.dll
+C:\Users\caglar\Documents\GitHub\parola\StaticClass\obj\Debug\StaticClass.pdb
