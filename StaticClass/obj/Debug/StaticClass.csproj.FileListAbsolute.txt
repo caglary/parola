@@ -148,3 +148,4 @@ C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.dll
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache

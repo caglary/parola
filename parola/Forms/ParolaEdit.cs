@@ -1,13 +1,5 @@
-﻿using parola.Properties;
-using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 namespace parola
 {
@@ -92,7 +84,7 @@ namespace parola
                     Form frm = Application.OpenForms["Anasayfa"];
                     bll = new ParolaManager();
                     GroupBox grpbx = frm.Controls["grpbxListe"] as GroupBox;
-                    ListBox lstbox = grpbx.Controls["lbxParolaListe"] as ListBox;
+                    ListBox lstbox = grpbx.Controls["lblParolaListe"] as ListBox;
                     List<parola> parolalar = bll.GetAll();
                     lstbox.DataSource = parolalar;
                     Label kayitSayisi = grpbx.Controls["lblToplamKayitSayisi"] as Label;

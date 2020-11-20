@@ -15,18 +15,22 @@ namespace parola
         ParolaValidator _parolaValidator;
         IParolaDAL _dll;
         int ReturnValue;
+        
         #endregion
         #region Constructors
         public ParolaManager()
         {
-            _dll = new SqliteParolaDal();
+            _dll = new LiteDbParolaDal();
+            //_dll = new SqliteParolaDal();
             _parolaValidator = new ParolaValidator();
+            
         }
         #endregion
         #region CRUD Operations
         public List<parola> GetAll()
         {
             return _dll.GetAll();
+
         }
         public void Save(parola parola)
         {

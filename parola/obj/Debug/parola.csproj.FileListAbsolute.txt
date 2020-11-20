@@ -596,3 +596,5 @@ C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\paro
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.csproj.CopyComplete
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.exe
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.pdb
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\LiteDB.dll
+C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\LiteDB.xml
