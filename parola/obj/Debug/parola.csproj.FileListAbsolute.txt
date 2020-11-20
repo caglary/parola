@@ -598,37 +598,23 @@ C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\paro
 C:\Users\caglar.yurdakul\Google Drive\Repos Program\parola\parola\obj\Debug\parola.pdb
 C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\LiteDB.dll
 C:\Users\caglar\Google Drive\Repos Program\parola\parola\bin\Debug\LiteDB.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\NLog.config
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.exe.config
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.exe
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\parola.pdb
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\LiteDB.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\Newtonsoft.Json.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\StaticClass.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Buffers.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.ComponentModel.Annotations.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Memory.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\WebDriver.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.DataSet.dll
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\NLog.dll
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\StaticClass.pdb
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\StaticClass.dll.config
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\LiteDB.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\Newtonsoft.Json.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Buffers.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Memory.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\WebDriver.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.pdb
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.xml
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.DataSet.pdb
-C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\ExcelDataReader.DataSet.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\NLog.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.datagridliste.resources
@@ -643,3 +629,4 @@ C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.CoreCompi
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.CopyComplete
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.exe
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.pdb
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
