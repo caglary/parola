@@ -229,12 +229,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\StaticClass\StaticClass.csproj">
-      <Project>{b0ec7040-d566-43d7-9b3d-ed63cbcdbe8c}</Project>
-      <Name>StaticClass</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
