@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using parola.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -26,7 +27,7 @@ namespace parola
             catch (Exception exception)
             {
                 //throw exception;
-                StaticClass.MessageBoxOperation.MessageBoxError(exception.Message);
+                MessageBoxOperation.MessageBoxError(exception.Message);
              
             }
         }

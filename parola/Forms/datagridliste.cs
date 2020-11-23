@@ -1,17 +1,18 @@
 ﻿using Microsoft.Office.Interop.Excel;
-using StaticClass;
+using parola.Business.Abstract;
+using parola.Business.DependencyResolvers.Ninject;
+using parola.Utilities;
 using System;
-using System.Drawing;
 using System.Windows.Forms;
 namespace parola
 {
     public partial class datagridliste : Form
     {
-        ParolaManager _bll;
+        IParolaService _bll;
         public datagridliste()
         {
             InitializeComponent();
-            _bll = new ParolaManager();
+            _bll = InstanceFactory.GetInstance<IParolaService>();
         }
         private void exceleaktar_Click(object sender, EventArgs e)
         {
