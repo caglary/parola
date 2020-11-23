@@ -1,6 +1,7 @@
 ﻿using Ninject.Modules;
 using parola.Business.Abstract;
 using parola.Business.Concrete;
+using parola.Database;
 using parola.Database.Abstract;
 using parola.Database.Concrete.LiteDb;
 using System;

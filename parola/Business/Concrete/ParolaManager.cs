@@ -46,7 +46,7 @@ namespace parola.Business.Concrete
 
             Parola gelenDeger = liste.Find(I => I.isim.ToLower() == parola.isim.ToLower());
 
-            if (gelenDeger!=null)
+            if (gelenDeger==null)
             {
                 Add(parola);
                 etkilenenKayit = $"Saved - {parola.isim}";
