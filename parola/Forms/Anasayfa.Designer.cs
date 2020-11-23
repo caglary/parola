@@ -77,14 +77,14 @@
             this.grpbxListe.Controls.Add(this.lblParolaListe);
             this.grpbxListe.Controls.Add(this.label6);
             this.grpbxListe.Controls.Add(this.lblToplamKayitSayisi);
-            this.grpbxListe.Location = new System.Drawing.Point(12, 61);
+            this.grpbxListe.Location = new System.Drawing.Point(12, 87);
             this.grpbxListe.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grpbxListe.Name = "grpbxListe";
             this.grpbxListe.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.grpbxListe.Size = new System.Drawing.Size(316, 261);
+            this.grpbxListe.Size = new System.Drawing.Size(316, 235);
             this.grpbxListe.TabIndex = 1;
             this.grpbxListe.TabStop = false;
-            this.grpbxListe.Text = "Liste";
+            this.grpbxListe.Text = "List of Parolas";
             // 
             // label6
             // 
@@ -93,9 +93,9 @@
             this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(14, 237);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(166, 20);
+            this.label6.Size = new System.Drawing.Size(115, 20);
             this.label6.TabIndex = 0;
-            this.label6.Text = "Toplam Kayıt Sayısı :";
+            this.label6.Text = "Total Record :";
             // 
             // lblToplamKayitSayisi
             // 
@@ -115,9 +115,9 @@
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(7, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(45, 20);
+            this.label1.Size = new System.Drawing.Size(54, 20);
             this.label1.TabIndex = 7;
-            this.label1.Text = "İsim";
+            this.label1.Text = "İsim:";
             // 
             // label2
             // 
@@ -126,9 +126,9 @@
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(7, 42);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(126, 20);
+            this.label2.Size = new System.Drawing.Size(135, 20);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Kullanıcı Adı";
+            this.label2.Text = "Kullanıcı Adı:";
             // 
             // label3
             // 
@@ -137,9 +137,9 @@
             this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(7, 59);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(63, 20);
+            this.label3.Size = new System.Drawing.Size(72, 20);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Parola";
+            this.label3.Text = "Parola:";
             // 
             // label4
             // 
@@ -148,14 +148,14 @@
             this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Location = new System.Drawing.Point(7, 93);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(81, 20);
+            this.label4.Size = new System.Drawing.Size(90, 20);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Açıklama";
+            this.label4.Text = "Açıklama:";
             // 
             // lblIsim
             // 
             this.lblIsim.AutoSize = true;
-            this.lblIsim.Location = new System.Drawing.Point(125, 26);
+            this.lblIsim.Location = new System.Drawing.Point(148, 26);
             this.lblIsim.Name = "lblIsim";
             this.lblIsim.Size = new System.Drawing.Size(60, 22);
             this.lblIsim.TabIndex = 7;
@@ -164,7 +164,7 @@
             // lblKullaniciAdi
             // 
             this.lblKullaniciAdi.AutoSize = true;
-            this.lblKullaniciAdi.Location = new System.Drawing.Point(125, 42);
+            this.lblKullaniciAdi.Location = new System.Drawing.Point(148, 42);
             this.lblKullaniciAdi.Name = "lblKullaniciAdi";
             this.lblKullaniciAdi.Size = new System.Drawing.Size(150, 22);
             this.lblKullaniciAdi.TabIndex = 7;
@@ -173,7 +173,7 @@
             // lblParola
             // 
             this.lblParola.AutoSize = true;
-            this.lblParola.Location = new System.Drawing.Point(125, 59);
+            this.lblParola.Location = new System.Drawing.Point(148, 59);
             this.lblParola.Name = "lblParola";
             this.lblParola.Size = new System.Drawing.Size(70, 22);
             this.lblParola.TabIndex = 7;
@@ -203,20 +203,19 @@
             this.grpbxParolaDetay.Controls.Add(this.lblKullaniciAdi);
             this.grpbxParolaDetay.Font = new System.Drawing.Font("Consolas", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grpbxParolaDetay.ForeColor = System.Drawing.Color.Black;
-            this.grpbxParolaDetay.Location = new System.Drawing.Point(332, 61);
+            this.grpbxParolaDetay.Location = new System.Drawing.Point(332, 87);
             this.grpbxParolaDetay.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grpbxParolaDetay.Name = "grpbxParolaDetay";
             this.grpbxParolaDetay.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.grpbxParolaDetay.Size = new System.Drawing.Size(422, 261);
+            this.grpbxParolaDetay.Size = new System.Drawing.Size(422, 235);
             this.grpbxParolaDetay.TabIndex = 9;
             this.grpbxParolaDetay.TabStop = false;
-            this.grpbxParolaDetay.Text = "Parola detay";
             // 
             // btnCopy
             // 
             this.btnCopy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.btnCopy.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnCopy.Location = new System.Drawing.Point(265, 223);
+            this.btnCopy.Location = new System.Drawing.Point(265, 195);
             this.btnCopy.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(157, 34);
@@ -230,7 +229,7 @@
             this.lblSeleniumInfo.AutoSize = true;
             this.lblSeleniumInfo.Font = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblSeleniumInfo.ForeColor = System.Drawing.Color.Black;
-            this.lblSeleniumInfo.Location = new System.Drawing.Point(125, 83);
+            this.lblSeleniumInfo.Location = new System.Drawing.Point(148, 83);
             this.lblSeleniumInfo.Name = "lblSeleniumInfo";
             this.lblSeleniumInfo.Size = new System.Drawing.Size(36, 20);
             this.lblSeleniumInfo.TabIndex = 7;
@@ -275,7 +274,7 @@
             this.BtnJsonRestore.Name = "BtnJsonRestore";
             this.BtnJsonRestore.Size = new System.Drawing.Size(89, 60);
             this.BtnJsonRestore.TabIndex = 0;
-            this.BtnJsonRestore.Text = "Restore ";
+            this.BtnJsonRestore.Text = "Restore";
             this.BtnJsonRestore.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.BtnJsonRestore.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.BtnJsonRestore.UseVisualStyleBackColor = false;
@@ -326,7 +325,7 @@
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(89, 60);
             this.btnUpdate.TabIndex = 0;
-            this.btnUpdate.Text = "Düzenle";
+            this.btnUpdate.Text = "Update";
             this.btnUpdate.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnUpdate.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnUpdate.UseVisualStyleBackColor = false;
@@ -343,7 +342,7 @@
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(89, 60);
             this.btnDelete.TabIndex = 0;
-            this.btnDelete.Text = "Sil";
+            this.btnDelete.Text = "Delete";
             this.btnDelete.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnDelete.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnDelete.UseVisualStyleBackColor = false;
@@ -356,9 +355,9 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label5.Location = new System.Drawing.Point(14, 14);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(250, 20);
+            this.label5.Size = new System.Drawing.Size(175, 20);
             this.label5.TabIndex = 0;
-            this.label5.Text = "Aramak istediğiniz metini giriniz.";
+            this.label5.Text = "Search this text in list.";
             // 
             // txtArama
             // 
@@ -381,7 +380,7 @@
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(89, 60);
             this.btnAdd.TabIndex = 0;
-            this.btnAdd.Text = "Yeni Kayıt";
+            this.btnAdd.Text = "Add New";
             this.btnAdd.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnAdd.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnAdd.UseVisualStyleBackColor = false;
@@ -424,7 +423,7 @@
             this.MaximizeBox = false;
             this.Name = "Anasayfa";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "PAROLAM";
+            this.Text = "My Parola List";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.grpbxListe.ResumeLayout(false);
@@ -435,6 +434,7 @@
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
         #endregion
         private System.Windows.Forms.ListBox lblParolaListe;

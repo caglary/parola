@@ -120,14 +120,7 @@ namespace parola.Forms
                 string stringliste = JsonOperation.JsonSerialize(liste);
                 string SavePath = folderPath + "\\" + "Parolalar.json";
                 System.IO.File.WriteAllText(SavePath, stringliste);
-                DialogResult dr = MessageBoxOperation.MessageBoxQuestion($"Yedek işlemi başarılı. Dosya : { SavePath}\nYedek alnınan dosyayı mail adresinize göndermek ister misiniz?");
-                if (dr == DialogResult.Yes)
-                {
-                    if (mailParola != null)
-                        SendEmail.SendMailToGmail("Parola Uygulaması Yedek", "Parola uygulamasının alınan yedekleri.", "Parola Uygulaması", mailParola.parola_, SavePath);
-                    else
-                        MessageBoxOperation.MessageBoxError("Gmail bilgilerine ulaşılamadı. Bu yüzden mail gönderme işlemi gerçekleşemedi.");
-                }
+                MessageBoxOperation.MessageBoxInformation($"Yedekleme işlemi gerçekleşti.\n{SavePath} adresini kontrol ediniz.");
             }
         }
         private void BtnJsonRestore_Click(object sender, EventArgs e)
