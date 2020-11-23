@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection;
 using System.Windows.Forms;
+using parola.Utilities; 
 namespace parola.Forms
 {
     public partial class Password : Form
@@ -23,7 +24,7 @@ namespace parola.Forms
             }
             else
             {
-                StaticClass.MessageBoxOperation.MessageBoxError("Hatalı parola girdiniz.");
+                MessageBoxOperation.MessageBoxError("Hatalı parola girdiniz.");
                 txtPassword.Text = "";
                 txtPassword.Focus();
             }

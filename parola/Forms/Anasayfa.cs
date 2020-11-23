@@ -1,4 +1,8 @@
-﻿using StaticClass;
+﻿using parola.Business.Abstract;
+using parola.Business.DependencyResolvers.Ninject;
+using parola.Entities.Concrete;
+using parola.Utilities;
+
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -8,20 +12,20 @@ namespace parola.Forms
 {
     public partial class Anasayfa : Form
     {
-        ParolaManager _bll;
+        IParolaService _bll;
         ParolaEdit parolaEdit;
-        static parola parolaEntity;
+        static Parola parolaEntity;
         public Anasayfa()
         {
             InitializeComponent();
-            parolaEntity = lblParolaListe.SelectedItem as parola;
-            _bll = new ParolaManager();
+            parolaEntity = lblParolaListe.SelectedItem as Parola;
+            _bll = InstanceFactory.GetInstance<IParolaService>();
         }
         private void Form1_Load(object sender, EventArgs e)
         {
             bool hardDiskFinded = false;
             //eğer programa başka bilgisayardan giriş yapılırsa
-            StaticClass.HardDrive hd = new HardDrive();
+            HardDrive hd = new HardDrive();
             var list=hd.GetHDDInformation();
             foreach (var item in list)
             {
@@ -45,10 +49,10 @@ namespace parola.Forms
         {
             this.Text = _bll.WhatIsTheConnectionString() + " içerindeki kayıtlar";
             Listele();
-            parolaEntity = lblParolaListe.SelectedItem as parola;
+            parolaEntity = lblParolaListe.SelectedItem as Parola;
             if (parolaEntity == null)
             {
-                parola firstParola = new parola();
+                Parola firstParola = new Parola();
                 firstParola.isim = "-";
                 firstParola.kullaniciadi = "-";
                 firstParola.parola_ = "-";
@@ -59,7 +63,7 @@ namespace parola.Forms
             WebButtonControl(parolaEntity);
             ParolaBilgileriShow(parolaEntity);
         }
-        private void ParolaBilgileriShow(parola parolaEntity)
+        private void ParolaBilgileriShow(Parola parolaEntity)
         {
             lblIsim.Text = parolaEntity.isim;
             lblKullaniciAdi.Text = parolaEntity.kullaniciadi;
@@ -69,7 +73,7 @@ namespace parola.Forms
         }
         public void Listele()
         {
-            List<parola> parolalar = _bll.GetAll();
+            List<Parola> parolalar = _bll.GetAll();
             lblParolaListe.DataSource = parolalar;
             lblParolaListe.DisplayMember = "isim";
             lblToplamKayitSayisi.Text = parolalar.Count.ToString();
@@ -81,15 +85,16 @@ namespace parola.Forms
         }
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            parolaEntity = lblParolaListe.SelectedItem as parola;
+            parolaEntity = lblParolaListe.SelectedItem as Parola;
             WebButtonControl(parolaEntity);
             ParolaBilgileriShow(parolaEntity);
         }
         private void Arama(object sender, EventArgs e)
         {
-            lblParolaListe.DataSource = _bll.Search(txtArama.Text);
+            var liste = _bll.GetAll();
+            lblParolaListe.DataSource = liste.Where(p => p.isim.ToLower().Contains(txtArama.Text.ToLower())).ToList(); ;
         }
-        private void WebButtonControl(parola parola)
+        private void WebButtonControl(Parola parola)
         {
             /*id_ler dizininde id si belirtilen kayıtlar form ekranında geldiğinde web butonları aktif olacak . 
              * id_ler dizisinde kayıtlı olmayanlar id ler form ekranında gözüktüğünde web butonu pasif konumda olacak. 
@@ -107,7 +112,7 @@ namespace parola.Forms
         }
         private void BtnJsonBackup_Click(object sender, EventArgs e)
         {
-            string folderPath = StaticClass.FileOperation.FolderPath();
+            string folderPath = FileOperation.FolderPath();
             if (!string.IsNullOrEmpty(folderPath))
             {
                 var liste = _bll.GetAll();
@@ -121,19 +126,19 @@ namespace parola.Forms
                     if (mailParola != null)
                         SendEmail.SendMailToGmail("Parola Uygulaması Yedek", "Parola uygulamasının alınan yedekleri.", "Parola Uygulaması", mailParola.parola_, SavePath);
                     else
-                        StaticClass.MessageBoxOperation.MessageBoxError("Gmail bilgilerine ulaşılamadı. Bu yüzden mail gönderme işlemi gerçekleşemedi.");
+                        MessageBoxOperation.MessageBoxError("Gmail bilgilerine ulaşılamadı. Bu yüzden mail gönderme işlemi gerçekleşemedi.");
                 }
             }
         }
         private void BtnJsonRestore_Click(object sender, EventArgs e)
         {
             List<string> etkilenenKayitlar = new List<string>();
-            List<parola> Parolalar = null;
+            List<Parola> Parolalar = null;
             string path = FileOperation.FilePath();
             if (!string.IsNullOrEmpty(path))
             {
                 string JsonOkunanData = System.IO.File.ReadAllText(path);
-                Parolalar = JsonOperation.JsonDeserialize<parola>(JsonOkunanData);
+                Parolalar = JsonOperation.JsonDeserialize<Parola>(JsonOkunanData);
             }
             if (Parolalar != null && !string.IsNullOrEmpty(Parolalar[0].kullaniciadi) &&
                 !string.IsNullOrEmpty(Parolalar[0].isim) && !string.IsNullOrEmpty(Parolalar[0].parola_)
@@ -144,7 +149,7 @@ namespace parola.Forms
                     //gelen koleksiyondaki verileri veritabanına kaydetmek için kod yazılabilir.
                     //ilgili değer kayıt ve update işlemleri yapılacaktır. 
                     //business tarafında metotlar oluşturulup eklenecek..
-                    string etkilenenenKayit = _bll.RestoreFromJsonToSql(parola);
+                    string etkilenenenKayit = _bll.RestoreFromJsonToDatabase(parola);
                     if (etkilenenenKayit != "")
                     {
                         etkilenenKayitlar.Add(etkilenenenKayit);
@@ -164,7 +169,7 @@ namespace parola.Forms
         private void Update_Click(object sender, EventArgs e)
         {
             //guncelleme işlemi
-            parola parola = lblParolaListe.SelectedItem as parola;
+            Parola parola = lblParolaListe.SelectedItem as Parola;
             if (parola != null)
             {
                 parolaEdit = new ParolaEdit(parola, Operations.Update);
@@ -177,7 +182,7 @@ namespace parola.Forms
         }
         private void Delete_Click(object sender, EventArgs e)
         {
-            parola parola = lblParolaListe.SelectedItem as parola;
+            Parola parola = lblParolaListe.SelectedItem as Parola;
             if (parola != null)
             {
                 ParolaEdit delete = new ParolaEdit(parola, Operations.Delete);
@@ -191,7 +196,7 @@ namespace parola.Forms
         }
         private void BtnShow_Click(object sender, EventArgs e)
         {
-            StaticClass.Hata.tryCatch(() =>
+            Hata.tryCatch(() =>
             {
                 ReflectionSelenium reflectionSelenium = new ReflectionSelenium();
                 var classControl = reflectionSelenium.classControl();

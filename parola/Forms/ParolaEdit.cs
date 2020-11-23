@@ -1,26 +1,30 @@
-﻿using System;
+﻿using parola.Business.Abstract;
+using parola.Business.DependencyResolvers.Ninject;
+using parola.Entities.Concrete;
+using parola.Utilities;
+using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 namespace parola
 {
     public partial class ParolaEdit : Form
     {
-        parola _parola;
+        Parola _parola;
         Operations _enumOperationName;
-        ParolaManager bll;
-        public ParolaEdit(parola parola, Operations enumOperationName)
+        IParolaService bll;
+        public ParolaEdit(Parola parola, Operations enumOperationName)
         {
             InitializeComponent();
             _parola = parola;
             _enumOperationName = enumOperationName;
-            bll = new ParolaManager();
+            bll = InstanceFactory.GetInstance<IParolaService>();
             CreateSimpleButton(_enumOperationName);
         }
         private void parolaToTextbox()
         {
             //parolaid ataması yapılmadı. parolaid _parola nesnesi içerisinde bulunmakta. 
             //parola nesnesi yapıcı metodun içinde tanımlanmakta . 
-            StaticClass.Hata.tryCatch(() =>
+            Hata.tryCatch(() =>
             {
                 if (_parola == null)
                 {
@@ -37,12 +41,12 @@ namespace parola
         {
             this.Close();
         }
-        private parola NewParola()
+        private Parola NewParola()
         {
             //eğer true değeri parametre olarak gnderilirse return edilen newparola nesnesi içerine parolaid ataması yapılmakta. 
             if (_enumOperationName == Operations.Save)
             {
-                _parola = new parola();
+                _parola = new Parola();
                 _parola.aciklama = txtAciklama.Text;
                 _parola.isim = txtIsim.Text;
                 _parola.kullaniciadi = txtKullaniciAdi.Text;
@@ -63,18 +67,18 @@ namespace parola
         private void Btn_Update_Click(object sender, EventArgs e)
         {
             //Guncelleme işlemi
-            StaticClass.Hata.tryCatch(() =>
+            Hata.tryCatch(() =>
             {
-                parola newParola = NewParola();
+                Parola newParola = NewParola();
                 if (_enumOperationName == Operations.Update) bll.Update(newParola);
-                else if (_enumOperationName == Operations.Save) bll.Save(newParola);
+                else if (_enumOperationName == Operations.Save) bll.Add(newParola);
                 else if (_enumOperationName == Operations.Delete) bll.Delete(newParola);
                 if (_enumOperationName != Operations.Delete)
                 {
                     Form form1 = Application.OpenForms["Anasayfa"];
                     ((TextBox)form1.Controls["txtArama"]).Text = " ";
                     ((TextBox)form1.Controls["txtArama"]).Text = newParola.isim;
-                    List<parola> parolalar = bll.GetAll();
+                    List<Parola> parolalar = bll.GetAll();
                     GroupBox liste = form1.Controls["grpbxListe"] as GroupBox;
                     Label kayitSayisi = liste.Controls["lblToplamKayitSayisi"] as Label;
                     kayitSayisi.Text = parolalar.Count.ToString();
@@ -82,10 +86,10 @@ namespace parola
                 else
                 {
                     Form frm = Application.OpenForms["Anasayfa"];
-                    bll = new ParolaManager();
+                    bll = InstanceFactory.GetInstance<IParolaService>();
                     GroupBox grpbx = frm.Controls["grpbxListe"] as GroupBox;
                     ListBox lstbox = grpbx.Controls["lblParolaListe"] as ListBox;
-                    List<parola> parolalar = bll.GetAll();
+                    List<Parola> parolalar = bll.GetAll();
                     lstbox.DataSource = parolalar;
                     Label kayitSayisi = grpbx.Controls["lblToplamKayitSayisi"] as Label;
                     kayitSayisi.Text = parolalar.Count.ToString();
