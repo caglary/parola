@@ -42,7 +42,7 @@ namespace parola.Database
             return "MyDatabase.sqlite";
         }
 
-        public List<Parola> GetAll()
+        public List<Parola> GetAll(Expression<Func<Parola, bool>> filter=null)
         {
             List<Parola> ParolaListesi = new List<Parola>();
             cmd = new SQLiteCommand("Select * From Parola", con);

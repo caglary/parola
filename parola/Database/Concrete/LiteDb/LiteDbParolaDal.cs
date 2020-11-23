@@ -66,24 +66,33 @@ namespace parola.Database.Concrete.LiteDb
 
                 var collection = db.GetCollection<Parola>();
 
-                return collection.FindOne(filter);
-
-              
+                return collection.Query().Where(filter).FirstOrDefault();
 
             }
         }
 
-     
 
-        public List<Parola> GetAll()
+
+        public List<Parola> GetAll(Expression<Func<Parola, bool>> filter)
         {
-            
+            if (filter == null)
+            {
                 using (var db = new LiteDatabase(DatabaseConnectionString))
                 {
                     var collection = db.GetCollection<Parola>();
                     return collection.FindAll().ToList();
                 }
-            
+            }
+            else
+            {
+                using (var db = new LiteDatabase(DatabaseConnectionString))
+                {
+                    var collection = db.GetCollection<Parola>();
+                    return collection.Query().Where(filter).ToList();
+                }
+            }
+
+
         }
 
 

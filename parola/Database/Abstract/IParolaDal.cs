@@ -1,6 +1,8 @@
-﻿namespace parola.Database.Abstract
+﻿using parola.Entities.Concrete;
+
+namespace parola.Database.Abstract
 {
-    public interface IParolaDal : IEntityRepository<Entities.Concrete.Parola>
+    public interface IParolaDal : IEntityRepository<Parola>
     {
         string WhatIsTheConnectionString();
     }
