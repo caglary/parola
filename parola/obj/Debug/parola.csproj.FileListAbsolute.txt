@@ -36,3 +36,11 @@ C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\WebDriver.xml
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.CopyComplete
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.exe
 C:\Users\caglar\Documents\GitHub\parola\parola\obj\Debug\parola.pdb
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.dll
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\FluentValidation.xml
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.ValueTuple.dll
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\System.ValueTuple.xml
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\EntityFramework.dll
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\EntityFramework.xml
+C:\Users\caglar\Documents\GitHub\parola\parola\bin\Debug\EntityFramework.SqlServer.xml
