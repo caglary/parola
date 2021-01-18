@@ -16,6 +16,7 @@ namespace parola.Database.Concrete.LiteDb
         {
             get
             {
+                //The database has been moved out of the program folder so that it does not appear in github.
                 string currentDirectory = Directory.GetCurrentDirectory();
                 var bin = Directory.GetParent(currentDirectory);
                 var parola = Directory.GetParent(bin.FullName);
