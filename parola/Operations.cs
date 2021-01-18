@@ -7,8 +7,6 @@ namespace parola
 {
     public enum Operations
     {
-        Save,
-        Update,
-        Delete
+        Add, Delete, Update
     }
 }

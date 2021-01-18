@@ -68,7 +68,7 @@ namespace parola.Database
             throw new NotImplementedException();
         }
 
-        public void Add(Parola entity)
+        public int Add(Parola entity)
         {
             string query = "INSERT INTO Parola (Name,UserName,Password,Note,CreationDate,SeleniumMethod) VALUES (@Name,@UserName, @Password,@Note,@CreationDate,@SeleniumMethod ); ";
             con.Open();
@@ -79,12 +79,13 @@ namespace parola.Database
             cmd.Parameters.AddWithValue("@Note", entity.aciklama);
             cmd.Parameters.AddWithValue("@CreationDate", DateTime.Now.ToShortDateString());
             cmd.Parameters.AddWithValue("@SeleniumMethod", string.IsNullOrEmpty(entity.SeleniumMethod) ? "" : entity.SeleniumMethod);
-            cmd.ExecuteNonQuery();
+            int result=cmd.ExecuteNonQuery();
             con.Close();
+            return result;
 
         }
 
-        public void Update(Parola entity)
+        public int Update(Parola entity)
         {
             string query = "UPDATE Parola SET Name=@Name,UserName=@UserName,Password=@Password,Note=@Note,CreationDate=@CreationDate,SeleniumMethod=@SeleniumMethod WHERE Id=@Id ";
             con.Open();
@@ -96,12 +97,12 @@ namespace parola.Database
             cmd.Parameters.AddWithValue("@CreationDate", DateTime.Now.ToShortDateString());
             cmd.Parameters.AddWithValue("@SeleniumMethod", string.IsNullOrEmpty(entity.SeleniumMethod) ? "" : entity.SeleniumMethod);
             cmd.Parameters.AddWithValue("@Id", entity.parolaid);
-            cmd.ExecuteNonQuery();
+            int result=cmd.ExecuteNonQuery();
             con.Close();
-            
+            return result;
         }
 
-        public void Delete(Parola entity)
+        public int Delete(Parola entity)
         {
             string query = "DELETE FROM Parola WHERE Id=@Id ";
             con.Open();
@@ -109,7 +110,9 @@ namespace parola.Database
             cmd.Parameters.AddWithValue("@Id", entity.parolaid);
             cmd.ExecuteReader();
             con.Close();
-
+            //kodlanması gerek . şimdilik operasyonda hata almadığıı varsayoyorum.
+            //ve geri dönüş değeri olarak 1 gönderiyorum.
+            return 1;
         }
     }
 }

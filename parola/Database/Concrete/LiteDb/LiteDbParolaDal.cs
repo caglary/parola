@@ -21,7 +21,7 @@ namespace parola.Database.Concrete.LiteDb
             }
         }
 
-        public void Add(Parola entity)
+        public int Add(Parola entity)
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
@@ -29,17 +29,19 @@ namespace parola.Database.Concrete.LiteDb
                 try
                 {
                     var result = collection.Insert(entity);
+                    return 1;
 
                 }
                 catch (Exception e)
                 {
+                    return -1;
                     throw new Exception(e.Message);
                 }
 
             }
         }
 
-        public void Delete(Parola entity)
+        public int Delete(Parola entity)
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
@@ -48,10 +50,11 @@ namespace parola.Database.Concrete.LiteDb
                 try
                 {
                     collection.Delete(entity.parolaid);
-
+                    return 1;
                 }
                 catch (Exception e)
                 {
+                    return -1;
                     throw new Exception(e.Message);
 
                 }
@@ -97,7 +100,7 @@ namespace parola.Database.Concrete.LiteDb
 
 
 
-        public void Update(Parola entity)
+        public int Update(Parola entity)
         {
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
@@ -105,11 +108,12 @@ namespace parola.Database.Concrete.LiteDb
                 try
                 {
                     collection.Update(entity);
+                    return 1;
 
                 }
                 catch (Exception e)
                 {
-
+                    return -1;
                     throw new Exception(e.Message);
                 }
 

@@ -44,7 +44,7 @@ namespace parola
         private Parola NewParola()
         {
             //eğer true değeri parametre olarak gnderilirse return edilen newparola nesnesi içerine parolaid ataması yapılmakta. 
-            if (_enumOperationName == Operations.Save)
+            if (_enumOperationName == Operations.Add)
             {
                 _parola = new Parola();
                 _parola.aciklama = txtAciklama.Text;
@@ -71,7 +71,7 @@ namespace parola
             {
                 Parola newParola = NewParola();
                 if (_enumOperationName == Operations.Update) bll.Update(newParola);
-                else if (_enumOperationName == Operations.Save) bll.Add(newParola);
+                else if (_enumOperationName == Operations.Add) bll.Add(newParola);
                 else if (_enumOperationName == Operations.Delete) bll.Delete(newParola);
                 if (_enumOperationName != Operations.Delete)
                 {
@@ -111,7 +111,7 @@ namespace parola
                 btn_Update.Text = "Güncelle".ToUpper();
                 lblMesaj.Text = "Güncellemek istediğiniz kayıt bilgileri".ToUpper();
             }
-            else if (_enumOperationName == Operations.Save)
+            else if (_enumOperationName == Operations.Add)
             {
                 btn_Update.Text = "kaydet".ToUpper();
                 lblMesaj.Text = "Kaydetmek istediğiniz kayıt bilgileri".ToUpper();

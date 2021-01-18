@@ -15,7 +15,7 @@ namespace parola.Database.Concrete.EntityFramework
             return @"Server: (localdb)\MSSQLLocalDB";
             //will code
         }
-        public override void Update(Parola entity)
+        public override int Update(Parola entity)
         {
             using (ParolaContext context = new ParolaContext())
             {
@@ -26,7 +26,7 @@ namespace parola.Database.Concrete.EntityFramework
                 result.SeleniumMethod = entity.SeleniumMethod;
                 result.aciklama = entity.aciklama;
                   
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
     }

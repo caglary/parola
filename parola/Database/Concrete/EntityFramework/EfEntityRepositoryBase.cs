@@ -12,23 +12,23 @@ namespace parola.Database.Concrete.EntityFramework
          where TEntity : class, IEntity, new()
          where Tcontext : DbContext, new()
     {
-        public void Add(TEntity entity)
+        public int Add(TEntity entity)
         {
             using (Tcontext context = new Tcontext())
             {
                 var addedEntity = context.Entry(entity);
                 addedEntity.State = EntityState.Added;
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
 
-        public void Delete(TEntity entity)
+        public int Delete(TEntity entity)
         {
             using (Tcontext context = new Tcontext())
             {
                 var deletedEntity = context.Entry(entity);
                 deletedEntity.State = EntityState.Deleted;
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
 
@@ -50,13 +50,13 @@ namespace parola.Database.Concrete.EntityFramework
             }
         }
 
-        public virtual void Update(TEntity entity)
+        public virtual int Update(TEntity entity)
         {
             using (Tcontext context = new Tcontext())
             {
                 var updatedEntity = context.Entry(entity);
                 updatedEntity.State = EntityState.Modified;
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
     }

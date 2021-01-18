@@ -216,7 +216,7 @@ namespace parola.Forms
         private void btnAdd_Click(object sender, EventArgs e)
         {
             //yeni kayıt işlemi
-            parolaEdit = new ParolaEdit(null, Operations.Save);
+            parolaEdit = new ParolaEdit(null, Operations.Add);
             parolaEdit.ShowDialog();
         }
     }

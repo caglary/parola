@@ -458,5 +458,19 @@ namespace parola
             });
             return driver;
         }
+
+        public IWebDriver AksaDogalgaz(string kullaniciadi, string parola_)
+        {
+            tryCatchBlock(() =>
+            {
+                driver.Url = "https://www.aksadogalgaz.com.tr/Online-Islemler";
+                driver.Manage().Window.Maximize();
+                driver.FindElement(By.Id("username")).SendKeys(kullaniciadi);
+                driver.FindElement(By.Id("password")).SendKeys(parola_);
+               
+            });
+            return driver;
+
+        }
     }
 }

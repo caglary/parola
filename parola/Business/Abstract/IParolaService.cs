@@ -15,5 +15,6 @@ namespace parola.Business.Abstract
         void Delete(Parola entity);
         string WhatIsTheConnectionString();
         string RestoreFromJsonToDatabase(Parola parola);
+        void Log(List<Parola> parola,Operations nameOfOperation);
     }
 }
