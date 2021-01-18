@@ -17,7 +17,19 @@ namespace parola.Database.Concrete.LiteDb
             get
             {
                 string currentDirectory = Directory.GetCurrentDirectory();
-                return $"{currentDirectory}\\Passwords.db";
+                var bin = Directory.GetParent(currentDirectory);
+                var parola = Directory.GetParent(bin.FullName);
+                var directoryParola = Directory.GetParent(parola.FullName);
+                var pathDatabase = Directory.GetParent(directoryParola.FullName);
+
+                string directoryDatabase = pathDatabase + @"\Database";
+                if (!Directory.Exists(directoryDatabase))
+                {
+                    Directory.CreateDirectory(directoryDatabase);
+                }
+
+                var fileOfDatabase= $"{directoryDatabase}\\Passwords.db";
+                return fileOfDatabase;
             }
         }
 
