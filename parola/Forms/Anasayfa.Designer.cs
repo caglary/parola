@@ -81,7 +81,7 @@
             this.grpbxListe.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grpbxListe.Name = "grpbxListe";
             this.grpbxListe.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.grpbxListe.Size = new System.Drawing.Size(316, 235);
+            this.grpbxListe.Size = new System.Drawing.Size(316, 278);
             this.grpbxListe.TabIndex = 1;
             this.grpbxListe.TabStop = false;
             this.grpbxListe.Text = "List of Parolas";
@@ -102,7 +102,7 @@
             this.lblToplamKayitSayisi.AutoSize = true;
             this.lblToplamKayitSayisi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblToplamKayitSayisi.ForeColor = System.Drawing.Color.Black;
-            this.lblToplamKayitSayisi.Location = new System.Drawing.Point(207, 237);
+            this.lblToplamKayitSayisi.Location = new System.Drawing.Point(132, 237);
             this.lblToplamKayitSayisi.Name = "lblToplamKayitSayisi";
             this.lblToplamKayitSayisi.Size = new System.Drawing.Size(45, 20);
             this.lblToplamKayitSayisi.TabIndex = 0;
@@ -207,7 +207,7 @@
             this.grpbxParolaDetay.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grpbxParolaDetay.Name = "grpbxParolaDetay";
             this.grpbxParolaDetay.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.grpbxParolaDetay.Size = new System.Drawing.Size(422, 235);
+            this.grpbxParolaDetay.Size = new System.Drawing.Size(422, 278);
             this.grpbxParolaDetay.TabIndex = 9;
             this.grpbxParolaDetay.TabStop = false;
             // 
@@ -215,7 +215,7 @@
             // 
             this.btnCopy.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.btnCopy.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnCopy.Location = new System.Drawing.Point(265, 195);
+            this.btnCopy.Location = new System.Drawing.Point(260, 237);
             this.btnCopy.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(157, 34);
@@ -353,7 +353,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Location = new System.Drawing.Point(14, 14);
+            this.label5.Location = new System.Drawing.Point(101, 10);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(175, 20);
             this.label5.TabIndex = 0;
@@ -397,10 +397,10 @@
             this.panel1.Controls.Add(this.BtnJsonRestore);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.panel1.Location = new System.Drawing.Point(0, 326);
+            this.panel1.Location = new System.Drawing.Point(0, 369);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(761, 80);
+            this.panel1.Size = new System.Drawing.Size(761, 128);
             this.panel1.TabIndex = 10;
             // 
             // Anasayfa
@@ -409,7 +409,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(761, 406);
+            this.ClientSize = new System.Drawing.Size(761, 497);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.txtArama);
             this.Controls.Add(this.pictureBox1);

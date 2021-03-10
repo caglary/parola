@@ -29,7 +29,7 @@ namespace parola.Database.Concrete.LiteDb
                     Directory.CreateDirectory(directoryDatabase);
                 }
 
-                var fileOfDatabase= $"{directoryDatabase}\\Passwords.db";
+                var fileOfDatabase = $"{directoryDatabase}\\Passwords.db";
                 return fileOfDatabase;
             }
         }
@@ -41,9 +41,9 @@ namespace parola.Database.Concrete.LiteDb
                 var collection = db.GetCollection<Parola>();
                 try
                 {
+                    entity.parolaid = 0;
                     var result = collection.Insert(entity);
                     return 1;
-
                 }
                 catch (Exception e)
                 {
