@@ -28,7 +28,6 @@
             this.txtAciklama = new System.Windows.Forms.RichTextBox();
             this.txtParola = new System.Windows.Forms.TextBox();
             this.txtIsim = new System.Windows.Forms.TextBox();
-            this.txtKullaniciAdi = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -38,13 +37,14 @@
             this.btnCancel = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.cmbSelenium = new System.Windows.Forms.ComboBox();
+            this.txtKullaniciAdi = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // txtAciklama
             // 
             this.txtAciklama.BackColor = System.Drawing.Color.SeaShell;
             this.txtAciklama.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtAciklama.Location = new System.Drawing.Point(118, 166);
+            this.txtAciklama.Location = new System.Drawing.Point(118, 172);
             this.txtAciklama.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtAciklama.Name = "txtAciklama";
             this.txtAciklama.Size = new System.Drawing.Size(304, 168);
@@ -55,7 +55,7 @@
             // 
             this.txtParola.BackColor = System.Drawing.Color.SeaShell;
             this.txtParola.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtParola.Location = new System.Drawing.Point(118, 135);
+            this.txtParola.Location = new System.Drawing.Point(118, 141);
             this.txtParola.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtParola.Name = "txtParola";
             this.txtParola.Size = new System.Drawing.Size(304, 27);
@@ -71,20 +71,10 @@
             this.txtIsim.Size = new System.Drawing.Size(304, 27);
             this.txtIsim.TabIndex = 0;
             // 
-            // txtKullaniciAdi
-            // 
-            this.txtKullaniciAdi.BackColor = System.Drawing.Color.SeaShell;
-            this.txtKullaniciAdi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtKullaniciAdi.Location = new System.Drawing.Point(118, 104);
-            this.txtKullaniciAdi.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
-            this.txtKullaniciAdi.Name = "txtKullaniciAdi";
-            this.txtKullaniciAdi.Size = new System.Drawing.Size(304, 27);
-            this.txtKullaniciAdi.TabIndex = 1;
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(8, 166);
+            this.label3.Location = new System.Drawing.Point(8, 172);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 22);
@@ -94,7 +84,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 133);
+            this.label2.Location = new System.Drawing.Point(8, 139);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(51, 22);
@@ -138,7 +128,7 @@
             this.btn_Update.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn_Update.Name = "btn_Update";
             this.btn_Update.Size = new System.Drawing.Size(121, 35);
-            this.btn_Update.TabIndex = 12;
+            this.btn_Update.TabIndex = 5;
             this.btn_Update.Text = "button1";
             this.btn_Update.UseVisualStyleBackColor = true;
             this.btn_Update.Click += new System.EventHandler(this.Btn_Update_Click);
@@ -149,7 +139,7 @@
             this.btnCancel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(90, 35);
-            this.btnCancel.TabIndex = 12;
+            this.btnCancel.TabIndex = 6;
             this.btnCancel.Text = "İPTAL";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.Btn_close_Click);
@@ -157,7 +147,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(13, 350);
+            this.label5.Location = new System.Drawing.Point(13, 356);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(70, 22);
@@ -167,10 +157,21 @@
             // cmbSelenium
             // 
             this.cmbSelenium.FormattingEnabled = true;
-            this.cmbSelenium.Location = new System.Drawing.Point(118, 346);
+            this.cmbSelenium.Location = new System.Drawing.Point(118, 352);
             this.cmbSelenium.Name = "cmbSelenium";
             this.cmbSelenium.Size = new System.Drawing.Size(302, 30);
-            this.cmbSelenium.TabIndex = 13;
+            this.cmbSelenium.TabIndex = 4;
+            // 
+            // txtKullaniciAdi
+            // 
+            this.txtKullaniciAdi.FormattingEnabled = true;
+            this.txtKullaniciAdi.Items.AddRange(new object[] {
+            "caglar.yurdakul60@gmail.com",
+            "caglar.yurdakul60@hotmail.com"});
+            this.txtKullaniciAdi.Location = new System.Drawing.Point(118, 105);
+            this.txtKullaniciAdi.Name = "txtKullaniciAdi";
+            this.txtKullaniciAdi.Size = new System.Drawing.Size(302, 30);
+            this.txtKullaniciAdi.TabIndex = 1;
             // 
             // ParolaEdit
             // 
@@ -178,6 +179,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.ClientSize = new System.Drawing.Size(435, 448);
+            this.Controls.Add(this.txtKullaniciAdi);
             this.Controls.Add(this.cmbSelenium);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btn_Update);
@@ -185,7 +187,6 @@
             this.Controls.Add(this.txtAciklama);
             this.Controls.Add(this.txtParola);
             this.Controls.Add(this.txtIsim);
-            this.Controls.Add(this.txtKullaniciAdi);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -199,12 +200,12 @@
             this.Text = "ParolaEdit";
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
         #endregion
         private System.Windows.Forms.RichTextBox txtAciklama;
         private System.Windows.Forms.TextBox txtParola;
         private System.Windows.Forms.TextBox txtIsim;
-        private System.Windows.Forms.TextBox txtKullaniciAdi;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label4;
@@ -215,5 +216,6 @@
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ComboBox cmbSelenium;
+        private System.Windows.Forms.ComboBox txtKullaniciAdi;
     }
 }
