@@ -16,21 +16,34 @@ namespace parola.Database.Concrete.LiteDb
         {
             get
             {
-                //The database has been moved out of the program folder so that it does not appear in github.
-                string currentDirectory = Directory.GetCurrentDirectory();
-                var bin = Directory.GetParent(currentDirectory);
-                var parola = Directory.GetParent(bin.FullName);
-                var directoryParola = Directory.GetParent(parola.FullName);
-                var pathDatabase = Directory.GetParent(directoryParola.FullName);
+                
 
-                string directoryDatabase = pathDatabase + @"\Database";
-                if (!Directory.Exists(directoryDatabase))
+
+              
+                string connectionString = Directory.GetCurrentDirectory()+ "\\connectionString.txt";
+                if (!File.Exists(connectionString))
                 {
-                    Directory.CreateDirectory(directoryDatabase);
-                }
+                    FileStream fs = new FileStream(connectionString, FileMode.Create);
+                    fs.Close();
+                                      
+                    File.WriteAllText(connectionString, $"{Directory.GetCurrentDirectory()}\\Passwords.db");
+                    return File.ReadAllText(connectionString);
 
-                var fileOfDatabase = $"{directoryDatabase}\\Passwords.db";
-                return fileOfDatabase;
+                }
+                else
+                {
+                    var dbName=File.ReadAllText(connectionString);
+                    if (string.IsNullOrEmpty(dbName))
+                    {
+                        File.WriteAllText(connectionString, $"{connectionString}\\Passwords.db");
+                        dbName = File.ReadAllText(connectionString);
+                    }
+
+                    return dbName;
+                }
+   
+
+               
             }
         }
 

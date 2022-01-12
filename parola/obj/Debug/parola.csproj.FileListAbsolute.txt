@@ -121,7 +121,6 @@ C:\Users\cagla\Documents\GitHub\parola\parola\bin\Debug\System.Data.SQLite.xml
 C:\Users\cagla\Documents\GitHub\parola\parola\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\cagla\Documents\GitHub\parola\parola\bin\Debug\System.ValueTuple.xml
 C:\Users\cagla\Documents\GitHub\parola\parola\bin\Debug\WebDriver.xml
-C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.csprojAssemblyReference.cache
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.exe.config
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.ResolveComReference.cache
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.datagridliste.resources
@@ -136,3 +135,4 @@ C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.CoreCompil
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.CopyComplete
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.exe
 C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.pdb
+C:\Users\cagla\Documents\GitHub\parola\parola\obj\Debug\parola.csproj.AssemblyReference.cache
