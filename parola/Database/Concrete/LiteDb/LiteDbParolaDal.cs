@@ -49,6 +49,7 @@ namespace parola.Database.Concrete.LiteDb
 
         public int Add(Parola entity)
         {
+            
             using (var db = new LiteDatabase(DatabaseConnectionString))
             {
                 var collection = db.GetCollection<Parola>();

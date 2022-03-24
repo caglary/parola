@@ -1,4 +1,5 @@
 using parola.Entities.Abstract;
+using System;
 
 namespace parola.Entities.Concrete
 
@@ -16,8 +17,10 @@ namespace parola.Entities.Concrete
     
         public int parolaid { get; set; }
         public string SeleniumMethod { get; set; }
-      
-      
+
+        public DateTime CreateTime { get; set; }
+
+
     }
 
    

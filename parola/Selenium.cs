@@ -3,8 +3,6 @@ using OpenQA.Selenium.Chrome;
 using parola.Utilities;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
 using System.Linq;
 namespace parola
 {
@@ -28,7 +26,7 @@ namespace parola
             {
                 //throw exception;
                 MessageBoxOperation.MessageBoxError(exception.Message);
-             
+
             }
         }
         public IWebDriver Halkbank(string kullaniciadi, string parola)
@@ -467,7 +465,7 @@ namespace parola
                 driver.Manage().Window.Maximize();
                 driver.FindElement(By.Id("username")).SendKeys(kullaniciadi);
                 driver.FindElement(By.Id("password")).SendKeys(parola_);
-               
+
             });
             return driver;
 

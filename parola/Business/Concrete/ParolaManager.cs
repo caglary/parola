@@ -24,6 +24,7 @@ namespace parola.Business.Concrete
 
         public void Add(Parola entity)
         {
+            entity.CreateTime = DateTime.Now;
             ValidationTool.Validate(new ParolaValidator(), entity);
             returnValue = _dll.Add(entity);
             List<Parola> parolalar = new List<Parola>();
@@ -54,6 +55,10 @@ namespace parola.Business.Concrete
         }
         public void Update(Parola entity)
         {
+        
+
+            entity.CreateTime = DateTime.Now;
+
             ValidationTool.Validate(new ParolaValidator(), entity);
             Parola oldParola = Get(I => I.parolaid == entity.parolaid);
             returnValue = _dll.Update(entity);
@@ -72,9 +77,21 @@ namespace parola.Business.Concrete
         public void Log(List<Parola> parolalar, Operations nameOfOperation)
         {
             //gelen parola değişmiş parola 
-            string path = Directory.GetCurrentDirectory();
-            path = path + "\\log.txt";
+            string currentDirectory = Directory.GetCurrentDirectory();
+            DirectoryInfo directoryInfo = Directory.GetParent(currentDirectory);
+            directoryInfo = directoryInfo.Parent;
+            directoryInfo = directoryInfo.Parent;
+            directoryInfo = directoryInfo.Parent;
+            directoryInfo = directoryInfo.Parent;
+
+            string path = directoryInfo.FullName+"\\log_ParolaProgram.txt";
             string content = "";
+
+            if (!File.Exists(path))
+            {
+                FileStream fs = File.Create(path);
+                fs.Close();
+            }
 
             if (nameOfOperation == Operations.Add)
             {

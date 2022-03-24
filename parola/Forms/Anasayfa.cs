@@ -117,10 +117,17 @@ namespace parola.Forms
                 var liste = _bll.GetAll();
                 var mailParola = liste.Where(I => I.isim == "gmail").SingleOrDefault();
                 string stringliste = JsonOperation.JsonSerialize(liste);
-                string SavePath = folderPath + "\\" + "Parolalar.json";
+                string backupTime = DateTime.Now.ToShortDateString();
+                string SavePath = folderPath + "\\" + backupTime+"_passwords.json";
+
+                //Backup tarihini bir dosyaya kayıt ediyoruz. 
+
+
+
                 System.IO.File.WriteAllText(SavePath, stringliste);
                 MessageBoxOperation.MessageBoxInformation($"Yedekleme işlemi gerçekleşti.\n{SavePath} adresini kontrol ediniz.");
             }
+
         }
         private void BtnJsonRestore_Click(object sender, EventArgs e)
         {
